@@ -1,0 +1,6 @@
+/* voglio che negli screen a display medio voglio che l'input della newsletter sia metà della sua grandezza */
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
